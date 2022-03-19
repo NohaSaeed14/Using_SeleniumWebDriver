@@ -37,4 +37,4 @@ Distributed under the MIT License. See LICENSE.txt for more information.
 # Contact
 Linkedin : https://www.linkedin.com/in/noha-saeed-719138163/
 
-Project Link : https://github.com/NohaSaeed14/Using-Selenium-WebDriver
+Project Link : https://github.com/NohaSaeed14/Using_SeleniumWebDriver
